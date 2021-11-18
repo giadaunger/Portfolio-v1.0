@@ -1,0 +1,80 @@
+@media only screen and (max-width: 1200px) {
+    .skill, .skillContainer {
+      display: block;
+      width: 70%;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+
+  @media only screen and (max-width: 890px) {
+    .form-picture{
+      width: 230px;
+      height: 250px;
+    }
+    td{
+      font-size: 1.0em;
+    }
+  }
+
+  @media only screen and (max-width: 665px) {
+    .form-picture{
+      width: 130px;
+      height: 150px;
+    }
+    td{
+      font-size: 0.9em;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .navbar-list, .navbar-link{
+      display: block;
+      float: none;
+      text-align: center;
+      width: 50px;
+      padding: 0%;
+      font-size: 1.2em;
+    }
+    .logo{
+      margin-bottom: 10px;
+    }
+    .navbar{
+      border-bottom: 2px black solid;
+    }
+    .main-h3, .resume-button{
+      font-size: 1.2em;
+      text-align: center;
+    }
+    .main-h1, .main-p{
+      font-size: 1.5em;
+    }
+    .skill{
+      height: 90px;
+    }
+    .main-picture{
+      height: 230px;
+      width: 150px;
+    }
+  }
+
+  @media only screen and (max-width: 540px) {
+    .form-picture{
+      width: 100px;
+    }
+    td{
+      font-size: 1.0em;
+    }
+    .resume-button{
+      font-size: 1.0em;
+    }
+    .main-h3{
+      font-size: 1.0em;
+    }
+  }
+
+  @media only screen and (max-width: 455px) {
+    .main-picture{
+      display: none;
+    }
+  }

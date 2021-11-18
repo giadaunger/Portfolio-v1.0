@@ -1,0 +1,44 @@
+.main-h1{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-bottom: 10px;
+}
+
+.main-h3{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.main-container{
+    max-width: 100ch;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    padding-top: 30px;
+}
+
+.main-picture{
+    height: 450px;
+    width: 300px;
+    margin-right: 20px;
+    display: flex;
+}
+
+.resume-button{
+    border-radius: 50px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.skill{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    margin: 30px;
+}
+
+.skillContainer{
+    display: flex;
+    justify-content: center;
+}

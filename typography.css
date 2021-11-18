@@ -1,0 +1,85 @@
+.navbar{
+    list-style: none;
+    font-family: 'EB Garamond', serif;
+}
+
+.navbar-link{
+    font-size: 1.8em;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-h1{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+}
+
+.main-p{
+    font-size: 1.2em;
+    font-family: 'EB Garamond', serif;
+}
+
+.main-h3{
+    font-size: 1.8em;
+    font-family: 'EB Garamond', serif;
+}
+
+.resume-button{
+    text-decoration: none;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.0em;
+}
+
+.skillParagraph{
+    text-align: center;
+    font-size: 1.8em;
+}
+
+th, td {
+    text-align: left;
+    font-family: 'EB Garamond', serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+}
+
+th{
+    font-size: 1.5em;
+}
+
+td{
+    font-size: 1.3em;
+}
+
+form{
+    font-family: 'EB Garamond', serif;
+}
+
+label, input, textarea{
+    font-size: 1.2em;
+}
+
+::placeholder{
+    font-family: 'EB Garamond', serif;
+}
+
+.button{
+    font-size: 1.8em;
+    font-family: 'EB Garamond', serif;
+}
+
+.contact{
+    list-style: none;
+    text-align: right;
+    font-family: 'EB Garamond', serif;
+    font-size: 1.2em;
+}
+
+.logo{
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.8em;
+}

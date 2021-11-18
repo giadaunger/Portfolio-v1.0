@@ -1,0 +1,14 @@
+.contact{
+    float: right;
+}
+
+.logo{
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-list{
+    padding-bottom: 20px;
+}
+

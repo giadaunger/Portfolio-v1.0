@@ -1,0 +1,93 @@
+body{
+    background-color: #FEFDFD;
+}
+
+.header{
+    background-color: #b4a9ab;
+}
+
+a{
+    border-bottom: 2px solid #b4a9ab;
+    color: black;
+}
+
+.navbar-link:hover{
+    border-bottom: #847577 2px solid;
+    color: #847577;
+}
+
+.main-h1{
+    color: black;
+    border-bottom: 2px black solid;
+}
+
+.main-picture{
+    border: 2px black solid;
+}
+
+.skill{
+    background-color: #b4a9ab;
+    border: 2px black solid;
+}
+
+.skill:hover{
+    border: 2px white solid;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 1px 1px 2px black;
+}
+
+.grid-h1{
+    color: black;
+    border-bottom: 2px black solid;
+}
+
+.footer{
+    background-color: #b4a9ab;
+}
+
+.contact{
+    border-bottom: 2px black solid;
+}
+
+.footer-list:hover{
+    color: #847577;
+}
+
+.active{
+    color: #5f464b;
+}
+
+textarea, input, form{
+    border: 2px black solid;
+}
+
+tr:hover {background-color: #b4a9aa;}
+
+th, td {
+    border-bottom: 2px solid black;
+}
+ 
+.resume-button:hover{
+    color: white;
+    border: 2px white solid;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 1px 1px 2px black
+}
+
+.resume-button{
+    color: #5f464b;
+    border: 2px #b4a9ab solid;
+    background-color: #b4a9ab;
+}
+
+form{
+    background-color: #d1c3c5;
+}
+
+.button:hover{
+    border: 2px white solid;
+    color: #5f464b;
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 1px 1px 2px black;
+}

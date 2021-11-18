@@ -1,0 +1,31 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas: 
+    'header header header header'
+    'main main main main'
+    'skill-container skill-container skill-container skill-container'
+    'footer footer footer footer';
+  }
+
+  .header{
+      grid-area: header;
+  }
+
+  .main{
+      grid-area: main;
+  }
+
+  .skill-container{
+      grid-area: skill-container;
+  }
+
+  .footer{
+      grid-area: footer;
+  }
+
+  .box {
+    color: black;
+    padding: 20px;
+  }
